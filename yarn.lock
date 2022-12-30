@@ -613,9 +613,9 @@ hexo-server@^3.0.0:
     picocolors "^1.0.0"
     serve-static "^1.14.1"
 
-hexo-theme-async@^1.2.4:
-  version "1.2.4"
-  resolved "https://registry.npmmirror.com/hexo-theme-async/-/hexo-theme-async-1.2.4.tgz#ce6bdc7b037c6b743e8b6419c5d6deb7ceecb087"
+hexo-theme-async@^1.2.11:
+  version "1.2.11"
+  resolved "https://registry.npmmirror.com/hexo-theme-async/-/hexo-theme-async-1.2.11.tgz#24046c53e3001d99d242b5e2581de6976f82f9ad"
 
 hexo-theme-landscape@^0.0.3:
   version "0.0.3"
